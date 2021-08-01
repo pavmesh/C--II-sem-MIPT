@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1590389764 source:c:\users\ddd\desktop\program's\qwerty\main.cpp
+	<iostream>
+	<string>
+	<cmath>
+
